@@ -1,4 +1,4 @@
-package com.P2EvenFibonacciNumbers;
+package com.P2evenFibonacciNumbers;
 
 import java.util.ArrayList;
 import java.util.List;
